@@ -1,0 +1,10 @@
+Toothpaste,Give you white teeth,AB-000001-C0,100,5.99,Nia,223 kelar Ave,San Jose,CA,US,92223,2018-11-30,2018-12-01,101
+Cup,Cup for drinking,AB-000002-0D,80,2.89,Ketty,243 kelar Ave,San Jose,CA,US,91223,2018-10-30,2018-11-01,10
+TV,give yourself getaway,AB-000003-0C,102,1000.99,Josh,123 kelar Ave,San Jose,CA,US,92223,2018-11-30,2018-12-01,10
+Yoga pant,nice yoga practice pant,AC-000001-0C,200,25.99,Jack,2231 cout Ave,Pittsburgh,PA,US,15123,2018-11-03,2018-11-12,2
+Dyson Vaccum,clean your house with most modern technolog and desgin,AZ-000001-0C,100,589.99,Olivia,4723 mountain Ave,New York,NY,US,35222,2018-11-03,2018-11-02,200
+HAVAN Cleanser,non-greasy and oil-free face cleanser,AB-000011-0C,1000,15.89,Lily,1232 dington Ave,Seattle,WA,US,98101,2018-11-20,2018-11-21,1
+Organic Tuffer Bread,gluten-free and cyrup free bread making with local love,AU-000001-0C,100,5.99,Blake,465 Olian Street,Orlando,FL,US,92245,2018-11-30,2018-12-01,5
+Oribe Shampoo,dandruff free shampp gluten free and prahaben free,AW-000101-0C,100,40.99,Taylor,342 China bets Ave,Los Angeles,CA,US,95671,2018-11-04,2018-11-09,1
+
+
